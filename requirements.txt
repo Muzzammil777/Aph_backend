@@ -1,6 +1,7 @@
 fastapi
 uvicorn
-sqlalchemy
-pydantic
-python-multipart
 mysql-connector-python
+transformers
+safetensors
+torch          # if your model is PyTorch-based
+tensorflow     # if your model is TensorFlow-based  
